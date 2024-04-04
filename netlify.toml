@@ -1,6 +1,6 @@
 # See https://gohugo.io/hosting-and-deployment/hosting-on-netlify/#configure-hugo-version-in-netlify get it
 [build]
-command = "hugo --gc --minify -b $URL; whoamihh"
+command = "hugo --gc --minify -b $URL; whoamihhh"
 publish = "public"
 
 [build.environment]
